@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 I know that dude. you are an awesome lecturer.
 period!
+
+Just to know how abstraction of staging area works.
+This is a perfect example.
