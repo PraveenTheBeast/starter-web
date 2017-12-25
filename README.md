@@ -19,3 +19,5 @@ This is a perfect example.
 ##Staged
 
 ##Local,comp explorer
+
+#automerge
