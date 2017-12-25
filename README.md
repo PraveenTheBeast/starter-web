@@ -15,3 +15,7 @@ This is a perfect example.
 ##Github change/ remote server
 
 ##.git repository
+
+##Staged
+
+##Local,comp explorer
