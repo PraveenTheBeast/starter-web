@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Praveen> -- <student> -- <nanunane@gmail.com>
 
 # THANKS
 
