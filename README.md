@@ -24,3 +24,5 @@ This is a perfect example.
 
 Adding some temporary things into this file
 Adding some content to commit
+
+git statsh
