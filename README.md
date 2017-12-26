@@ -21,3 +21,6 @@ This is a perfect example.
 ##Local,comp explorer
 
 #automerge
+
+Adding some temporary things into this file
+Adding some content to commit
