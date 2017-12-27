@@ -26,3 +26,5 @@ Adding some temporary things into this file
 Adding some content to commit
 
 git statsh
+
+Adding line in newbranch
